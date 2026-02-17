@@ -1,4 +1,4 @@
-# Spotifyd <!-- omit in toc -->[![Matrix][matrix-badge]](https://matrix.to/#/#spotifyd:matrix.org)
+# Spotifyd <!-- omit in toc -->[![Matrix][matrix-badge]](https://matrix.to/#/#spotifyd:matrijabx.org)
 [![GitHub Workflow Status][cd-badge]][github-actions]
 > [![Github Actions - CI][ci-badge]][github-actions]An open source Spotify client running as a UNIX daemon.
 [Project Website](https://spotifyd.rs)
